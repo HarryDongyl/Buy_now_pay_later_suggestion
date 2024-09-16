@@ -1,12 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wNN69YNG)
 # Generic Buy Now, Pay Later Project
 
-## MAST30034 Project 2 README.md
-# Group 1
-- Zi Han Wu, 1266716
-- Mei Hui Wang, 1266291
-- Jinuo Sun, 1214174
-- Yulin Dong, 1156680
+# Designed by
+- Zi Han Wu
+- Mei Hui Wang
+- Jinuo Sun
+- Yulin Dong
 
 **Research Goal:** The research goal is to find optimal propties for BNPL company to choose merchant, based on this properties to establish a comperhensive ranking system, and therefore found the top 100 merchants for paternership. 
 
